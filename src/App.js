@@ -1,6 +1,6 @@
 import React from "react";
 import Title from "./comps/Title";
-import UploadForm from "./comps/Upload";
+import UploadForm from "./comps/UploadForm";
 
 function App() {
   return (
